@@ -1,0 +1,100 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" controllerName="com.sap.build.standard.kevinC4L.controller.Page1" xmlns="sap.m" xmlns:form="sap.ui.layout.form" xmlns:core="sap.ui.core">
+    <Page showHeader="true" title="Kevin George C4L" showFooter="true" showNavButton="false">
+        <content>
+            <form:Form width="1232px" editable="false" visible="true" class="sapUiResponsiveMargin">
+                <form:title>
+                    <core:Title text="C4l Data" level="Auto" class="sapUiLargeMargin"/>
+                </form:title>
+                <form:formContainers>
+                    <form:FormContainer visible="true">
+                        <form:formElements>
+                            <form:FormElement visible="true">
+                                <form:label>
+                                    <Label text="Name" design="Standard" width="100%" required="false" textAlign="Begin" textDirection="Inherit" visible="true"/>
+                                </form:label>
+                                <form:fields>
+                                    <Input type="Text" showValueHelp="false" enabled="true" visible="true" width="auto" valueHelpOnly="false" maxLength="0"/>
+                                </form:fields>
+                            </form:FormElement>
+                            <form:FormElement visible="true">
+                                <form:label>
+                                    <Label text="Number" design="Standard" width="100%" required="false" textAlign="Begin" textDirection="Inherit" visible="true"/>
+                                </form:label>
+                                <form:fields>
+                                    <ComboBox editable="true" enabled="true" visible="true" width="auto" valueState="None" maxWidth="100%">
+                                        <items>
+                                            <core:Item text="Item" enabled="true" key="Item"/>
+                                            <core:Item text="Item" enabled="true" key="Item"/>
+                                            <core:Item text="Item" enabled="true" key="Item"/>
+                                        </items>
+                                    </ComboBox>
+                                </form:fields>
+                            </form:FormElement>
+                            <form:FormElement visible="true">
+                                <form:label>
+                                    <Label text="Slider" design="Standard" width="100%" required="false" textAlign="Begin" textDirection="Inherit" visible="true"/>
+                                </form:label>
+                                <form:fields>
+                                    <Slider min="0" max="100" value="0" step="1" enabled="true" visible="true" width="200px" progress="true"/>
+                                </form:fields>
+                            </form:FormElement>
+                            <form:FormElement visible="true">
+                                <form:label>
+                                    <Label text="Toggle Button" design="Standard" width="100%" required="false" textAlign="Begin" textDirection="Inherit" visible="true"/>
+                                </form:label>
+                                <form:fields>
+                                    <Switch state="false" customTextOff="Off" customTextOn="On" type="Default" enabled="true" visible="true"/>
+                                </form:fields>
+                            </form:FormElement>
+                            <form:FormElement visible="true">
+                                <form:label>
+                                    <Label text="Segmented Button" design="Standard" width="100%" required="false" textAlign="Begin" textDirection="Inherit" visible="true"/>
+                                </form:label>
+                                <form:fields>
+                                    <SegmentedButton width="206.5625px" enabled="true" visible="true" class="sapUiTinyMargin">
+                                        <items>
+                                            <SegmentedButtonItem icon="sap-icon://positive" text="Yes" width="auto" enabled="true"/>
+                                            <SegmentedButtonItem icon="sap-icon://negative" text="no" width="auto" enabled="true"/>
+                                        </items>
+                                    </SegmentedButton>
+                                </form:fields>
+                            </form:FormElement>
+                            <form:FormElement visible="true">
+                                <form:label>
+                                    <Label text="Toggle Button" design="Standard" width="100%" required="false" textAlign="Begin" textDirection="Inherit" visible="true"/>
+                                </form:label>
+                                <form:fields>
+                                    <ToggleButton pressed="true" text="Yes / No :" iconFirst="true" width="50%" enabled="true" visible="true"/>
+                                </form:fields>
+                            </form:FormElement>
+                            <form:FormElement visible="true">
+                                <form:label>
+                                    <Label text="" design="Standard" width="100%" required="false" textAlign="Begin" textDirection="Inherit" visible="true"/>
+                                </form:label>
+                                <form:fields>
+                                    <Button text="Submit" type="Accept" icon="sap-icon://process" iconFirst="true" width="auto" enabled="true" visible="true" iconDensityAware="false"/>
+                                </form:fields>
+                            </form:FormElement>
+                        </form:formElements>
+                        <form:title/>
+                    </form:FormContainer>
+                </form:formContainers>
+                <form:layout>
+                    <form:ResponsiveGridLayout adjustLabelSpan="false" columnsL="2" labelSpanL="3" columnsM="1" labelSpanM="2" labelSpanS="12"/>
+                </form:layout>
+            </form:Form>
+        </content>
+        <footer>
+            <OverflowToolbar width="100%" height="auto" design="Auto" enabled="true" visible="true">
+                <content>
+                    <ToolbarSpacer width=""/>
+                    <Button text="Save" type="Emphasized" iconFirst="true" width="auto" enabled="true" visible="true" iconDensityAware="false"/>
+                    <Button text="Cancel" type="Default" iconFirst="true" width="auto" enabled="true" visible="true" iconDensityAware="false"/>
+                </content>
+            </OverflowToolbar>
+        </footer>
+        <headerContent/>
+        <subHeader/>
+        <customHeader/>
+    </Page>
+</mvc:View>
