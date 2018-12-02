@@ -1,0 +1,12 @@
+#Password=<< Existing password/certificate removed on export >>
+#
+#Mon Aug 13 19:14:34 UTC 2018
+Type=HTTP
+Authentication=BasicAuthentication
+WebIDEUsage=odata_gen
+Name=C4L_Dest_Kevin
+WebIDEEnabled=true
+ProxyType=Internet
+URL=https\://mydemod077f1613.us2.hana.ondemand.com/C4L/C4LoData.xsodata
+User=i870871
+WebIDESystem=IHV

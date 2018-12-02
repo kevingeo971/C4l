@@ -1,0 +1,215 @@
+Sales_VP,Company_Id,Big_Bet_Acct,Account_Name,Account_Executive,Internal_Account_Classification,CY_Pipeline_CLOUD,CY_Attainment_CLOUD,CY_Pipeline_OP,CY_Attainment_OP,EWS,APM_and_Relationship_Map,S4_Transformation_Roadmap,EBC_Visit,Innovation_Day_Mini_SAPPHIRE,Leonardo_Introduction_Discovery,COO_Engaged,Total_Rev,Celonis,Other_Solex,S4_HANA,HANA_DDM_Leonardo,dSCM_Leonardo,Analytics_Leonardo,oCFO,Procurement_Adriba,CEC,SAP_Cloud_Platform,HCM_Success_Factors,Fieldglass,Concur,HEC,Total_SALES_PLAYS,CIO,CFO,CEO,CTO,COO,CHRO,ECPO,CMO,SVP_GM,Total_Executive_Alignment,Comments
+SO-Burns,162460,Yes,Graphic Packaging International Inc.,Carter Brunelle,Key - Active,1577.41371,0,4453.8125,0,0,1,1,1,1,1,0,5,1,2,2,2,3,4,2,2,2,2,4,2,4,1,33,3,1,1,2,1,3,2,0,2,15,-
+SO-Burns,163172,Yes,Milliken & Company,Carter Brunelle,Key - Active,1492.52608,50.87016,863.2125,66.2174,0,1,1,1,1,0,1,5,0,2,4,3,3,4,3,4,3,3,3,2,4,1,39,3,1,1,0,1,3,3,0,2,14,-
+SO-Burns,172397,No,Sonoco Products Company,Carter Brunelle,Key - Active,533.63988,0,0,0,0,1,0,1,1,1,1,5,1,1,0,2,2,4,0,4,0,4,0,1,0,0,19,3,0,1,0,0,0,3,0,2,9,-
+SO-Burns,6381600,No,Brand Energy Infrastructure Services Inc,Jack Werder,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Burns,179409,Yes,CommScope Inc. of North Carolina,Jack Werder,Key - Active,1686.16731,0,1568.575,52.648,0,1,1,1,1,1,0,5,1,1,0,2,2,2,2,2,2,2,3,3,3,1,26,2,2,2,2,2,2,2,1,1,16,-
+SO-Burns,50058213,No,Diversey Inc,Jack Werder,Key - Active,314.60004,0,375,0,0,1,1,0,0,0,0,2,0,1,1,2,0,1,0,3,0,0,0,3,3,1,15,2,1,1,1,1,1,1,1,1,10,-
+SO-Burns,172018,Yes,Nucor Corporation,Jack Werder,Key - Active,432.696,918.33242,1133.3375,0,0,1,1,1,1,1,0,5,0,1,2,2,2,2,2,1,2,1,3,2,3,1,24,2,2,1,1,1,2,1,1,2,13,-
+SO-Burns,2630883,Yes,Old Dominion Freight Line Inc.,Jack Werder,Key - Active,385.00024,0,0,419.0375,0,1,1,1,0,1,0,4,1,1,1,2,1,2,2,2,1,1,2,0,3,0,19,2,2,2,1,1,2,1,1,1,13,-
+SO-Burns,165301,Yes,Sealed Air Corp,Jack Werder,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Burns,162799,Yes,Sealed Air Corporation,Jack Werder,Key - Active,1187.31976,3.40698,6693.15,0,0,1,1,1,1,1,1,6,1,1,1,2,2,2,2,3,3,3,3,1,3,1,28,2,2,1,2,2,2,2,1,1,15,-
+SO-Burns,21399006,No,ALBEMARLE CORPORATION,Jake Wood,Key - Active,511.602,318.51228,655.2375,527.235,0,1,1,0,0,1,1,4,0,2,4,3,1,2,4,4,0,4,0,0,4,2,30,3,3,3,0,2,2,2,0,2,17,-
+SO-Burns,22317935,No,Ingevity South Carolina LLC,Jake Wood,Key - Active,0,0,343.48,0,0,0,2,0,2,1,0,5,2,0,3,3,1,3,3,1,1,1,1,0,0,0,19,3,1,0,3,1,0,0,0,0,8,-
+SO-Burns,177844,No,Jeld-Wen Inc.,Jake Wood,Key - Active,1121.3172,35.47554,1854.204,0,0,0,1,0,0,1,1,3,0,2,4,3,1,2,2,2,2,2,2,0,2,4,28,3,3,0,0,0,2,0,0,0,8,-
+SO-Burns,16968988,No,National DCP,Jake Wood,Key - Active,375.94876,0,681.3,0,0,0,1,0,0,1,1,3,0,2,3,2,2,3,1,3,0,1,2,1,2,1,23,3,2,1,0,0,3,2,0,2,13,-
+SO-Burns,163096,No,National Gypsum Company (NGC),Jake Wood,Key - Active,0,0,34,0,0,0,1,0,0,0,1,2,0,2,2,3,1,2,2,1,1,0,0,0,2,0,16,3,2,3,0,3,0,1,1,1,14,-
+SO-Burns,205762,No,Sitel Operating Corporation,Jake Wood,Key - Active,1062.63988,49.37158,120,204.4875,0,0,1,0,0,0,1,2,0,1,2,3,1,1,4,2,0,1,4,2,3,1,25,2,2,0,1,1,2,1,1,0,10,-
+SO-Burns,19478130,No,Veritiv Operating Company,Jake Wood,Key - Active,350.131,0,0,0,0,0,0,0,1,0,0,1,0,0,1,2,0,4,1,0,0,0,0,1,0,2,11,2,0,0,0,0,0,0,0,0,2,-
+SO-Burns,208902,No,CeramTec North America,Kevin Burns,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Burns,200525,No,Americold Logistics LLC,Steven Morgan,Key - Active,276.54124,0,187.5937,170.2575,0,1,3,1,2,1,2,10,2,1,2,3,1,3,1,1,1,1,1,1,1,1,20,3,3,1,3,3,1,1,1,1,17,-
+SO-Burns,14851304,No,Babcock & Wilcox Enterprises Inc.,Steven Morgan,Key - Active,183.0564,0,0,0,0,0,2,0,2,1,0,5,1,0,3,1,0,1,0,1,0,1,0,0,0,1,9,2,1,0,0,0,0,0,0,1,4,-
+SO-Burns,7876699,No,Benefitfocus.com Inc.,Steven Morgan,Key - Active,52.80025,0,0,14.375,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,2,0,4,0,3,0,15,1,0,2,0,0,2,0,0,0,5,-
+SO-Burns,3181598,No,Butterball LLC,Steven Morgan,Key - Active,0,0,0,0,0,0,1,0,0,1,0,2,0,0,2,0,0,0,3,1,0,0,1,1,3,0,11,2,0,0,0,0,0,0,0,0,2,-
+SO-Burns,2127008,Yes,Carlisle Companies Inc.,Steven Morgan,Key - Active,162,45.78312,2785.8225,0,0,2,1,0,2,2,2,9,2,1,3,3,1,2,1,1,1,1,1,1,1,1,20,2,1,0,1,1,1,1,0,2,9,-
+SO-Burns,166159,No,Lane Ltd.,Steven Morgan,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Burns,10232793,No,LKN Communications Inc,Steven Morgan,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Burns,173995,No,Shurtape Technologies LLC,Steven Morgan,Key - Active,459.03572,0,202.5,0,0,0,1,0,0,1,0,2,0,1,2,2,0,4,3,2,2,2,1,1,0,0,20,1,0,0,0,0,0,0,0,0,1,-
+SO-Burns,21610299,Yes,SPX Flow Inc.,Steven Morgan,Key - Active,1427.98731,218.36671,2362.65,0,0,1,2,1,3,3,0,10,3,3,3,3,1,4,3,3,3,3,3,3,3,1,39,2,2,0,3,3,3,1,1,1,16,-
+SO-Davey,1236289,No,CHEP,Andrew Randall,Key - Active,2490.8698,0,2663.8572,0,0,1,0,1,1,1,1,5,0,3,2,3,2,2,2,1,2,2,1,1,4,1,26,1,0,0,1,0,0,0,0,2,4,-
+SO-Davey,10123699,No,First Data Corporation,Andrew Randall,Key - Active,631.7703,51.484,1275,19.956,0,1,0,1,1,1,0,4,0,0,1,3,1,3,1,4,2,1,1,1,1,0,19,3,1,2,2,0,0,2,0,3,13,-
+SO-Davey,163221,Yes,Jabil Inc.,Andrew Randall,Key - Active,1384.17714,19.16792,6473.8718,263.0892,0,1,1,1,1,1,1,6,1,3,2,3,4,3,2,3,1,2,1,1,4,3,33,3,2,2,2,1,1,1,0,3,15,-
+SO-Davey,7180874,Yes,United Parcel Service Oasis Supply Corp.,Andrew Randall,Key - Active,1401.89366,0,3750.4216,0,0,1,1,1,1,1,0,5,0,3,1,3,2,1,2,3,3,2,1,2,2,1,26,3,1,1,1,1,1,2,0,2,12,-
+SO-Davey,165853,Yes,Delta Air Lines Inc.,Donna Boyd,Key - Active,3255.45076,49.4576,1046.6679,504.279,0,1,1,1,1,1,1,6,1,4,4,4,1,2,4,4,0,4,4,1,4,4,41,2,1,1,2,0,3,2,0,1,12,-
+SO-Davey,170410,Yes,Flowers Foods Inc.,Donna Boyd,Key - Active,1361.21532,0,2387.32,37.0348,0,1,1,1,1,1,1,6,1,1,3,3,3,4,2,3,2,3,4,3,4,0,36,3,3,0,2,1,3,3,1,2,18,-
+SO-Davey,17733162,No,Global Payments,Donna Boyd,Key - Active,0,0,0,0,0,1,0,1,1,0,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,3,Oracle shop.  Working HANA plays.
+SO-Davey,5713611,No,HD Supply Support Services Inc,Donna Boyd,Key - Active,831.26664,0,4031.9,0,0,1,1,1,1,1,1,6,1,0,4,4,4,4,3,2,1,1,3,1,1,0,29,3,3,3,3,1,1,1,0,0,15,-
+SO-Davey,221263,Yes,Mohawk Carpet LLC,Garrett McLendon,Key - Active,1546.77156,13.51582,3311.0437,0,0,1,1,1,0,1,1,5,3,1,1,3,2,2,1,3,3,2,3,1,3,1,29,3,1,0,0,2,3,2,2,1,14,-
+SO-Davey,167554,Yes,The Home Depot,Garrett McLendon,SCP - Regional,4016.61172,300.03402,8871.0046,9999.9994,0,1,1,1,0,1,1,5,1,1,2,3,2,2,4,1,3,2,1,1,1,1,25,1,2,0,2,0,1,0,2,2,10,-
+SO-Davey,15422287,No,CSM Bakery Supplies LLC,Matthew Terry,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,19413731,No,Avent Inc.,Michelle Shander,Key - Active,1057.46421,0,77.625,129.9571,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,11012655,No,Bloomin' Brands Inc.,Michelle Shander,Key - Active,699.792,0,456.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,226514,No,Boral Industries Inc,Michelle Shander,Key - Active,0,0,207.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,3124333,No,Cox Enterprises Inc.,Michelle Shander,Key - Active,175.59204,0,320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,5663640,Yes,CSX Corporation,Michelle Shander,Key - Active,255,8.57145,1420,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,204825,No,Ergon Inc,Michelle Shander,Key - Active,0,12.19212,85.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,172519,Yes,Southwire Company LLC,Michelle Shander,Key - Active,2158.61063,3.63691,3585.1806,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,204903,No,Adtran Inc,Seann Ingram,Key - Active,197.47203,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,205752,No,EBSCO Industries Inc,Seann Ingram,Key - Active,1321.30477,0,351.5,0,0,0,1,0,0,1,0,2,0,0,1,0,0,0,1,0,0,0,1,1,0,0,4,1,0,0,0,0,1,0,0,0,2,-
+SO-Davey,5407064,Yes,Louisiana-Pacific Corporation,Seann Ingram,Key - Active,186.30407,616.39996,525,0,0,0,0,1,0,1,1,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,2,-
+SO-Davey,50027702,No,SiteOne Landscape Supply LLC,Seann Ingram,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,237179,No,Tiffin Motorhomes Inc.,Seann Ingram,Key - Active,188.99998,0,525,0,0,0,1,0,0,1,1,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,3,-
+SO-Davey,3803684,No,Acuity Brands Inc,Susan Straka,Key - Active,1073.63995,2.79249,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,183100,No,AGC Flat Glass North America Inc,Susan Straka,Key - Active,1102.27727,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,11786767,Yes,AGCO,Susan Straka,Key - Active,1313.1031,347.21605,3275.8066,595.7067,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,164030,No,Genuine Parts Company Inc.,Susan Straka,Key - Active,2162.48012,0,533.4375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,50002317,No,Oldcastle Services Inc.,Susan Straka,Key - Active,2393.05707,35.44501,1230.235,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,14106452,Yes,ScanSource Inc,Susan Straka,Key - Active,0,0,1141.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Davey,7890273,No,Six Continents Hotels Inc.,Susan Straka,Key - Active,670.89405,0,1192.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Krpata,4760829,No,Hanesbrands Inc,David MacClaren,Key - Active,841.53984,9.23079,675,0,0,1,1,0,0,0,1,3,0,2,0,1,1,1,1,0,1,1,1,0,1,1,11,1,0,0,0,0,1,1,0,0,3,-
+SO-Krpata,167775,Yes,Lowe's Companies Inc.,David MacClaren,Key - Active,224.20531,0,46.8,0,0,1,0,0,0,1,1,3,0,1,0,1,0,0,0,1,1,1,1,0,0,0,6,0,0,0,0,0,0,0,0,1,1,-
+SO-Krpata,4830999,No,The William Carter Company,David MacClaren,Key - Active,1159.99892,0,76.3539,0,0,1,1,0,0,0,0,2,0,2,1,1,1,1,1,1,0,1,1,0,1,0,11,1,1,0,0,0,1,0,0,1,4,-
+SO-Krpata,8485118,No,Tommy Bahama Group Inc.,David MacClaren,Key - Active,227.14658,0,289.8,0,0,1,1,0,0,1,0,3,0,1,1,1,1,1,1,0,0,1,0,0,1,0,8,1,1,1,0,0,0,0,0,2,5,-
+SO-Krpata,5652495,Yes,BFS Retail & Commercial Operations LLC,Jason Pitser,Key - Active,952.37172,0,5357.9023,257.6109,0,1,1,0,1,1,1,5,2,2,2,2,2,2,2,1,2,1,1,1,1,2,23,2,1,0,0,0,1,0,0,1,5,-
+SO-Krpata,2158047,Yes,Chico's FAS Inc.,Jason Pitser,Key - Active,1469.47157,3.07046,1950.81,0,0,1,0,0,0,1,1,3,0,2,0,1,1,0,0,1,2,1,3,0,1,1,13,2,1,0,0,0,2,1,0,1,7,-
+SO-Krpata,4837017,No,Cott Beverages Inc,Jason Pitser,Key - Active,1406.89828,40.06225,0,0,0,1,1,0,0,0,1,3,0,1,4,1,1,2,1,1,1,2,1,0,1,2,18,3,2,1,1,0,1,1,0,2,11,-
+SO-Krpata,11969037,No,Ladies Professional Golf AssociationInc,Jason Pitser,Key - Active,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,-
+SO-Krpata,166149,No,Ryder System Inc.,Jason Pitser,Key - Active,960.13353,0,2250.6718,0,0,1,0,0,0,0,0,1,2,1,1,0,0,0,0,1,0,1,0,0,0,0,6,1,0,0,0,0,0,1,0,0,2,-
+SO-Krpata,16001752,No,ADT LLC,Jeff Batley,Key - Active,375.09929,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,4,0,0,0,0,0,0,3,0,0,3,-
+SO-Krpata,4821112,Yes,Arthrex Inc,Jeff Batley,Key - Active,2543.78077,0,3815.7713,0,0,1,0,0,1,1,1,4,0,4,4,4,1,1,1,1,1,1,4,1,4,1,28,3,3,3,0,0,3,3,0,3,18,-
+SO-Krpata,179148,No,Citrix Systems Inc.,Jeff Batley,Key - Active,2218.24462,159.7562,4346.5106,210.9375,0,1,1,0,1,1,1,5,1,4,4,1,1,1,1,4,4,1,1,4,4,1,32,2,3,3,3,3,1,3,3,3,24,-
+SO-Krpata,206942,No,Florida Crystals Corporation,Jeff Batley,Key - Active,1345.35159,0,1533.2416,2.5875,0,1,1,1,1,1,1,6,1,4,4,4,1,4,4,1,1,4,4,1,4,1,38,3,3,3,0,0,3,3,3,3,21,-
+SO-Krpata,160477,Yes,VF Services LLC of (Delaware),Jeff Batley,Key - Active,2024.74399,0,5706.1536,1223.4915,0,1,1,1,1,1,1,6,1,4,4,1,1,1,4,1,1,1,1,1,1,1,23,1,1,1,3,0,1,1,0,3,11,-
+SO-Krpata,167776,Yes,Publix Super Markets Inc,Jim Gibson,Key - Active,899.33999,10.73075,1039.8134,0,0,1,1,1,0,0,1,4,2,0,4,4,1,2,3,4,1,3,4,2,3,0,33,1,1,1,0,0,1,1,1,4,10,Longtime SAP account. We have schduled the TCO program with Joe Molash as well as scheduling an EBC for Q-3. While at Sapphire KPIT Publix and I met and confirmed that Publix wants to use KPIT's S4 migration toolkit. That’s KPIT's version of a BSR from SAP. Between this and the TCO program we're making fantastic headway in migrating them to S4
+SO-Krpata,208315,Yes,TBC Corporation,Jim Gibson,Key - Active,1841.29952,450.61233,3161.375,0,0,1,1,1,1,1,0,5,3,0,3,3,3,4,3,1,1,0,4,1,2,0,28,4,3,3,4,1,4,2,4,4,29,Lots of projects going on at TBC. HCN analytics IBP HANA Replacing Teradata.. With recent JV between Sumitomo and Michelin all projects are stalled until July.
+SO-Krpata,25759300,No,Herc Rentals,Kevin Moore,Key - Active,134.00285,0,97.5,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,1,0,0,1,2,1,0,0,7,0,0,0,0,0,3,0,0,0,3,-
+SO-Krpata,4714269,No,Naturipe Farms LLC,Kevin Moore,Key - Active,0,0,0,73.1529,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-
+SO-Krpata,4691503,No,Roper Industries Inc,Kevin Moore,Key - Active,200.376,0,226.5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,Owns Many companies.  We have not met roper corporate execs.  SAP has relationships with many of the other companies.
+SO-Krpata,7179570,Yes,Royal Caribbean Cruises Ltd.,Kevin Moore,Key - Active,3143.48396,0,212.75,0,0,1,0,0,1,1,1,4,0,1,1,1,0,2,0,1,2,0,2,1,0,0,11,1,0,0,2,0,0,0,0,0,3,-
+SO-Krpata,2978541,Yes,Carnival Cruise Lines,Renee Kranking,Key - Active,466.8,449.39532,1224,0,0,1,0,1,1,0,0,3,0,0,0,0,2,0,0,3,3,0,1,0,0,0,9,2,0,1,0,0,0,1,0,0,4,-
+SO-Krpata,7007346,No,Cheney Bros. Incorporated,Renee Kranking,Key - Active,366.00012,145.40012,2046.075,546.48,0,0,0,0,0,0,1,1,0,4,1,0,1,4,1,0,3,3,3,1,0,1,22,3,2,1,0,1,1,1,1,1,11,-
+SO-Krpata,4219463,Yes,Newell Rubbermaid Inc,Renee Kranking,Key - Active,3267.84049,0,1004.8556,0,0,1,1,0,0,1,0,3,3,3,3,1,2,0,0,2,1,1,3,3,4,0,26,3,2,1,0,0,1,1,0,0,8,-
+SO-Krpata,172003,No,OFFICE DEPOT INC.,Renee Kranking,Key - Active,376.79976,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,-
+SO-Krpata,172450,No,Southern Glazer’s Wine and Spirits LLC,Renee Kranking,Key - Active,818.59,287.82747,1080.75,0,0,0,0,0,0,0,1,1,0,4,3,0,0,3,0,3,3,1,3,3,3,1,27,3,1,1,3,1,2,1,0,1,13,-
+SO-Krpata,172843,Yes,Tech Data Corporation,Renee Kranking,Key - Active,684.613,373.20724,904.503,0,0,1,1,0,1,1,1,5,3,3,3,2,3,3,3,0,3,1,0,0,4,3,31,3,1,2,2,1,1,2,0,2,14,-
+SO-Krpata,225051,No,Cabela's Incorporated,Ronnie Dunn,Key - Active,161.0388,0,567.7901,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1,2,0,3,0,4,0,12,1,0,0,0,0,0,0,0,0,1,CIO of Cabela's now named CIO of consolidated Bass Pro. Trying to partner with Accenture who is integation advisor
+SO-Krpata,169308,No,Caleres Inc.,Ronnie Dunn,Key - Active,512.39816,0,402.5,0,0,1,0,0,1,0,0,2,1,0,0,3,0,3,1,0,1,1,1,0,3,0,14,1,0,0,1,0,1,0,0,2,5,Partnering with ADP on resell for Employee Central
+SO-Krupa,163162,No,The Coca-Cola Company,Amy Coplen,Key - Active,12666.15675,569.42505,7439.7795,10708.4843,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-May,2996000,No,Commercial Metals Company,Amy Coplen,Key - Active,1244.19458,0,507.1581,0,0,0,0,0,0,1,1,2,1,1,1,1,1,1,1,1,1,1,4,0,4,1,19,3,1,1,3,0,2,0,0,1,11,-
+SO-May,223457,No,Fluor Enterprises Inc.,Amy Coplen,Key - Active,3257.24921,29.94303,573.75,224.6119,0,0,0,0,1,1,1,3,1,0,1,1,1,1,0,4,1,1,4,1,0,1,17,2,0,0,0,0,2,3,0,0,7,-
+SO-May,176888,No,Hunt Consolidated Inc.,Amy Coplen,Key - Active,663.96012,0,540,22.9787,0,0,0,0,0,0,1,1,1,0,1,4,0,4,0,1,0,1,0,0,1,1,14,2,2,0,1,0,0,1,0,0,6,-
+SO-May,160733,Yes,Lennox International Inc,Amy Coplen,Key - Active,3184.96819,7.41988,2781.765,301.58,0,1,0,1,1,1,1,5,2,0,1,4,1,2,1,1,4,1,4,4,4,1,30,3,1,0,3,1,3,2,1,0,14,-
+SO-May,161454,No,NEC Corporation of America Inc.,Amy Coplen,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,1,1,0,0,0,0,0,0,4,11,2,0,0,0,0,0,0,0,0,2,-
+SO-May,162389,No,Texas Instruments Incorporated,Amy Coplen,Key - Active,0,0,1628.75,0,0,0,0,1,0,1,1,3,1,0,1,1,1,0,1,1,4,0,1,0,4,1,16,2,0,0,0,0,1,0,0,0,3,-
+SO-May,9588505,No,Americas Styrenics LLC,James England,Key - Active,53.928,0,50.85,0,0,0,0,1,0,1,1,3,1,0,1,1,1,0,1,1,4,0,1,0,4,1,16,2,0,0,0,0,1,0,0,0,3,-
+SO-May,4652157,Yes,CenturyTel Service Group LLC,James England,Key - Active,4100.88617,0,5316.95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-May,162949,No,Citgo Petroleum Corporation,James England,Key - Active,445.50048,0,0,0,0,1,1,1,1,1,1,6,2,4,4,4,3,4,2,3,3,4,4,4,4,3,48,2,2,0,3,0,3,2,0,3,15,-
+SO-May,13950224,No,O&G Consortium CDP Projects,Jason Cable,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-May,14622819,No,Ofs Portal,Jason Cable,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-May,17894245,No,PennTex Midstream Partners LLC,Jason Cable,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-May,13972934,Yes,Phillips 66 Company,Jeff Hart,SCP - Global,5083.77786,1268.00407,10470.2607,5671.8495,0,1,1,1,0,0,1,4,2,2,4,3,2,2,4,4,1,3,4,3,2,3,39,3,2,0,3,0,3,3,2,2,18,-
+SO-May,161451,Yes,ConocoPhillips Company,Jon Gall,SCP - Global,5541.32247,0,12154.3091,264.7624,0,1,0,0,0,1,1,3,1,1,2,3,1,1,1,1,1,2,3,1,1,1,20,3,0,0,1,0,2,0,0,3,9,-
+SO-May,181193,Yes,Schlumberger Technology Corporation,Jon Gall,SCP - Global,6075.19148,781.472,10002.5888,0,0,1,0,0,0,1,0,2,4,3,1,3,1,1,1,3,2,1,3,1,1,1,26,3,0,0,1,0,2,0,0,3,9,-
+SO-May,43177,Yes,ExxonMobil Global Services Co.,Ryan Fishman,SCP - Platinum,14422.95499,169.89988,23772.7601,4242.4253,0,1,1,1,1,1,0,5,4,1,1,3,1,2,4,0,3,3,4,0,1,1,28,3,2,2,3,0,1,3,1,1,16,-
+SO-May,19690302,No,DNOW L.P.,Srikant Varma,Key - Active,377.52012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,3,-
+SO-May,167687,No,McDermott Investments LLC,Srikant Varma,Key - Active,0,0,492.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,-
+SO-May,161319,No,Westlake Chemical Corporation,Srikant Varma,Key - Active,912.5,0,260,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,3,-
+SO-Potts,211491,Yes,Charles Machine Works Inc,Doug Jones,Key - Active,1198.66546,0,2895.975,0,0,1,1,0,1,1,0,4,2,2,3,1,2,2,2,3,4,2,4,1,4,2,34,4,4,2,1,2,2,2,2,2,21,-
+SO-Potts,15794635,No,Dallas Cowboys Football Club,Doug Jones,Key - Active,87.12036,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,1,1,1,1,1,16,0,0,0,0,2,0,0,2,0,4,-
+SO-Potts,4468386,No,FTS International Services LLC,Doug Jones,Key - Active,139.5,8.0635,480,0,0,1,1,0,1,1,0,4,2,3,4,1,2,3,2,3,0,3,0,0,3,0,26,4,3,0,0,2,1,2,0,0,12,-
+SO-Potts,2996624,No,BNSF Railway Company,Jason Hawkins,Key - Active,1225.19527,2.00908,2528.1958,952.0609,0,1,0,1,1,1,0,4,1,3,1,3,1,3,3,0,0,1,4,3,4,1,28,2,1,0,0,0,3,1,0,1,8,CY OP Attainment is WRONG - best case for ongoing CDP is $1m for '18.  CRM not updating correctly.
+SO-Potts,202292,No,Chesapeake Operating L.L.C.,Jason Hawkins,Key - Active,719.05959,0,525,411.2203,0,1,0,0,0,0,0,1,2,3,1,3,3,3,3,3,0,1,3,3,3,1,32,2,0,0,0,0,1,2,0,1,6,-
+SO-Potts,13562501,No,Eco-Bat Technologies Limited,Jason Hawkins,Key - Active,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,3,3,0,0,0,0,0,0,0,6,1,1,0,0,0,0,0,0,0,2,-
+SO-Potts,189712,Yes,HollyFrontier Corporation,Jason Hawkins,Key - Active,2268.32008,0,6293.7502,0,0,1,1,1,1,1,0,5,1,3,2,3,3,3,3,3,1,3,3,3,4,1,36,3,2,0,0,0,1,2,0,1,9,-
+SO-Potts,4840808,No,KMG Chemicals Inc,Jason Hawkins,Key - Active,24.76845,71.00736,262.5,0,0,1,1,1,0,1,0,4,0,3,1,3,1,3,3,0,0,3,1,0,3,1,22,1,0,0,0,0,0,0,0,0,1,< $400M GB account managed by iTelligence.  
+SO-Potts,164667,No,Occidental Chemical Corporation,Jason Hawkins,Key - Active,178.304,2.2032,700.2,0,0,1,1,1,0,1,1,5,0,3,4,3,3,3,3,4,0,2,3,0,3,1,32,3,0,0,0,2,2,2,0,2,11,Already engaged in large SAP transformation project
+SO-Potts,205760,Yes,TFC Services Inc.,Jason Hawkins,Key - Active,375.00007,30.66756,2910,0,0,1,0,0,0,0,0,1,0,1,1,1,1,3,1,1,2,3,3,1,0,0,18,2,0,0,0,0,2,0,0,0,4,-
+SO-Potts,210314,Yes,Flowserve Corporation,Kris Macready,Key - Active,2523.29652,0,4740.897,596.5097,0,1,1,1,1,1,0,5,3,3,3,2,3,3,3,2,0,2,1,0,1,2,28,3,2,1,0,0,0,0,0,0,6,-
+SO-Potts,199354,No,Pioneer Natural Resources Usa,Kris Macready,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Potts,164671,No,Valero Services Inc,Kris Macready,Key - Active,955.22488,0,2084.1732,3646.592,0,1,1,0,1,0,0,3,0,1,1,0,0,0,1,1,0,2,2,2,0,0,10,2,0,0,0,0,0,0,0,0,2,-
+SO-Potts,4936824,No,NuStar Energy LP,Rebecca Potts,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D/NN Territory not covered in Q1.  New hire starts April 1st
+SO-Potts,161682,Yes,Dell USA L.P.,Russ Harmon,SCP - Global,8897.65226,1486.00012,7958.6979,0,0,1,1,0,1,1,0,4,0,1,2,2,2,2,3,4,1,1,0,4,4,0,26,2,0,3,2,0,0,1,1,2,11,Dell rankings in C4L are not indiciative of Vmware and Virtustream.
+SO-Potts,172918,Yes,Tesoro Companies Inc.,Russ Harmon,Key - Active,5462.54105,159.5,4217.2094,0,0,1,1,1,1,1,1,6,2,4,4,4,4,3,3,2,1,4,4,4,4,1,44,3,3,2,3,2,3,2,0,3,21,-
+SO-Potts,4829997,No,Bristow Group Inc,Shane Reese,Key - Active,705.61193,212.5865,939.5122,0,0,1,1,1,1,0,1,5,1,3,2,3,2,3,3,1,2,3,2,1,2,4,32,3,0,1,0,0,0,0,0,0,4,-
+SO-Potts,197517,No,Cirrus Logic Inc,Shane Reese,Key - Active,713.52414,0,200,0,0,1,1,0,0,0,1,3,1,3,2,3,2,3,3,1,1,3,3,1,3,2,31,3,2,0,3,0,3,3,0,0,14,-
+SO-Potts,165810,Yes,Harland Clarke Corporation,Shane Reese,Key - Active,468.01441,48.44176,2384.0923,0,0,1,0,1,0,0,1,3,1,2,2,2,1,3,3,1,1,3,4,4,4,2,33,0,2,0,0,1,3,3,1,0,10,-
+SO-Potts,7268407,No,HUNTSMAN INTERNATIONAL LLC,Shane Reese,Key - Active,7371.67596,0,2142.5952,0,0,1,1,1,1,1,1,6,2,3,2,3,3,3,3,3,3,3,1,1,4,3,37,3,0,0,0,0,0,0,0,2,5,-
+SO-Potts,9388717,No,MRC Management Company,Shane Reese,Key - Active,920.41116,0,855,0,0,1,1,0,0,0,0,2,1,3,2,3,3,3,3,1,2,2,1,1,4,2,31,3,0,0,0,0,0,0,0,0,3,-
+SO-Potts,3038783,No,Rush Administrative Services Inc.,Shane Reese,Key - Active,679.01076,0,738.75,428.8519,0,1,1,1,0,0,0,3,2,3,1,3,2,3,3,2,2,2,1,2,3,1,30,3,2,0,0,2,1,0,0,3,11,-
+SO-Potts,26026720,Yes,Venator Materials LLC,Shane Reese,Key - Active,2124.49607,0,1341.7144,0,0,1,1,1,1,1,1,6,2,2,2,3,3,3,3,3,3,3,2,1,3,3,36,3,0,0,0,0,0,0,0,0,3,-
+SO-Schwartz,199326,No,American Multi-Cinema Inc.,Andy Fink,Key - Active,421.3728,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,-
+SO-Schwartz,169610,No,Belden Inc,Andy Fink,Key - Active,604.9296,0,0,0,0,1,1,0,1,0,1,4,0,1,1,1,0,0,0,0,0,0,1,0,1,0,5,3,0,0,0,0,0,3,0,0,6,-
+SO-Schwartz,2993695,Yes,Hallmark Cards Inc.,Andy Fink,Key - Active,4909.7319,0,11241.6184,0,0,1,1,1,1,1,1,6,2,2,2,2,1,1,2,2,2,2,1,1,1,1,22,3,1,1,3,0,0,3,2,3,16,-
+SO-Schwartz,3554869,No,Kansas City Southern,Andy Fink,Key - Active,759.08292,0,954.84,81,0,1,1,1,1,0,1,5,0,0,1,1,1,1,2,1,1,1,1,0,1,1,12,2,1,1,1,1,3,1,1,1,12,-
+SO-Schwartz,165783,Yes,Sigma-Aldrich Corporation,Andy Fink,Key - Active,187.308,0,2194.2,0,0,1,1,1,1,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,-
+SO-Schwartz,3990067,Yes,Spirit AeroSystems,Andy Fink,Key - Active,1749.88095,0,3281.1172,0,0,1,1,1,1,1,1,6,1,1,0,1,1,1,1,1,0,1,0,0,0,1,9,3,1,0,3,0,1,3,0,0,11,-
+SO-Schwartz,163245,Yes,Union Pacific RailRoad Company,Andy Fink,Key - Active,499.87874,45.38509,400.4,0,0,1,1,0,0,2,1,5,0,0,1,1,0,1,0,0,0,0,1,0,0,0,4,1,1,0,0,0,1,1,0,0,4,-
+SO-Schwartz,166760,Yes,Koch Industries Inc.,Bob Bira,SCP - Global,6499.89397,481.10572,25508.7342,2819.2359,0,1,0,0,1,1,1,4,0,3,3,3,3,3,3,4,3,3,0,2,4,3,37,3,2,0,1,1,2,3,0,2,14,-
+SO-Schwartz,161447,No,Monsanto Company,Bob Bira,Key - Active,1394.87202,0,1224,0,0,1,1,0,0,0,1,3,2,4,2,3,0,4,2,4,4,2,3,4,4,1,39,3,1,0,3,0,0,3,0,3,13,-
+SO-Schwartz,5452871,No,American Railcar Industries Inc,Colin Meisinger,Key - Active,413.38917,0,1390.65,0,0,1,0,1,1,0,1,4,1,4,1,4,2,3,0,2,2,3,4,1,2,1,30,3,1,0,0,0,2,1,0,0,7,-
+SO-Schwartz,21462815,No,Energizer Brands LLC,Colin Meisinger,Key - Active,297.3078,79.56954,4927.8962,0,0,1,1,1,1,1,1,6,4,4,2,4,4,3,2,4,4,2,4,1,4,1,43,3,1,0,0,0,1,2,0,0,7,-
+SO-Schwartz,165852,Yes,Federal Express Corporation,Colin Meisinger,Key - Active,467.40567,0,2304,0,0,1,0,0,1,1,1,4,0,2,0,3,2,4,0,1,2,1,4,4,0,0,23,0,0,0,0,0,0,0,0,0,0,-
+SO-Schwartz,174168,No,Graybar Electric Company Inc.,Colin Meisinger,Key - Active,1774.85047,0,2142,172.5,0,1,0,1,0,1,1,4,4,4,2,4,2,3,2,1,1,2,4,1,4,2,36,3,1,0,0,0,1,1,1,1,8,-
+SO-Schwartz,205316,No,NPC International Inc.,Colin Meisinger,Key - Active,109.728,1052.75162,138,27.1197,0,1,1,0,1,0,1,4,0,0,4,2,0,2,4,0,0,4,4,2,4,2,28,3,1,0,0,0,3,1,0,0,8,-
+SO-Schwartz,160409,No,Olin Corporation,Colin Meisinger,Key - Active,443.79193,0.28885,2230.5507,1825.8519,0,1,1,1,1,1,1,6,4,4,4,4,4,4,4,4,1,4,0,1,4,2,44,3,1,1,0,0,0,2,0,1,8,-
+SO-Schwartz,214260,No,Dairy Farmers of America,Craig Beard,Key - Active,414.3373,0,626.25,0,0,1,0,0,1,1,1,4,0,4,1,1,1,4,1,1,1,4,4,0,1,1,24,3,1,0,0,1,0,0,1,3,9,Design Thinking session went well in Mar.  TCO study needs to have exec sponsorship from CFO.  Pushing for Ecomm alignement with SVP of Consumer Goods division.
+SO-Schwartz,161053,No,Edgewell Personal Care Brands LLC,Craig Beard,Key - Active,1334.78226,3.872,1339.15,0,0,1,1,0,1,1,1,5,1,4,4,4,1,4,4,4,4,4,4,4,4,1,47,3,0,0,0,0,0,0,0,0,3,Business Transformation initiative being driven by CIO. Looking at DSC Gigya DDM solutions plus Ariba extension.  Need to get lots of folks to Sapphire.
+SO-Schwartz,171054,No,Mallinckrodt LLC,Craig Beard,Key - Active,569.88012,0,469.575,0,0,1,1,0,1,1,1,5,1,4,4,4,1,4,4,1,1,1,4,4,2,1,36,3,0,0,0,0,0,0,0,0,3,Met Shri.  S/4 project due to kickoff in early May.  Looking at innovation day in NY.  Interested in Leonardo and Innovation.  Need to get out and visit with the team in April to lay down plans.
+SO-Schwartz,13815386,No,Nidec Americas Holding Corporation.,Craig Beard,Key - Active,305.00004,0,450,0,0,1,1,0,0,0,0,2,0,1,1,0,0,1,4,1,0,0,0,0,0,0,8,1,1,0,0,0,0,0,0,0,2,Met with Director of IT got update which is not much in favor of SAP.  Due to meet with CIO week of 4/9 and determine next steps.  Push to get in front of CFO.
+SO-Schwartz,13158662,No,Post Holdings Inc.,Craig Beard,Key - Active,512.2656,0,526.4125,0,0,0,0,0,0,0,0,0,0,4,1,1,0,4,1,1,0,0,0,0,0,0,12,2,0,0,0,0,0,2,0,0,4,Met with CIO and VP of Procurement want to learn more about S/4 and what it has to offer as well as BigData solutions we have to supplement the Oracle Data Lake they have.
+SO-Schwartz,209512,Yes,Barry-Wehmiller Companies Inc.,Dan McNulty,Key - Active,249.744,0,322.2,0,0,1,0,0,0,0,0,1,0,0,4,1,2,2,3,4,3,3,1,1,4,3,31,2,0,0,0,0,0,0,0,0,2,-
+SO-Schwartz,201042,No,Cerner Canada Ltd,Dan McNulty,Key - Active,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,1,1,3,4,1,2,2,4,1,22,0,0,0,1,0,0,0,0,2,3,-
+SO-Schwartz,6604009,No,The Scoular Company,Dan McNulty,Key - Active,0,-197.91585,655.35,0,0,1,1,0,1,0,1,4,3,4,4,2,1,4,4,0,2,4,4,0,4,0,36,1,3,1,0,1,0,0,0,1,7,-
+SO-Schwartz,161282,No,Anheuser-Busch Companies LLC,Dan Schwartz,Key - Active,513.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Schwartz,19158317,No,Arby's Restaurant Group Inc.,Dan Schwartz,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Schwartz,5607337,No,Arris Group,Dan Schwartz,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Schwartz,10303321,No,Gavilon LLC,Dan Schwartz,Key - Active,0,0,302.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Schwartz,14665879,No,ILG Inc.,Dan Schwartz,Key - Active,150.00012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Schwartz,5585119,No,Intergraph Corporation,Dan Schwartz,Key - Active,0,0,88.9875,0.936,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Schwartz,178082,No,Kiewit Corporation,Dan Schwartz,Key - Active,387.49988,0,24.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Schwartz,172672,No,Pratt Industries Inc.,Dan Schwartz,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Schwartz,19761707,No,SunEdison Semiconductor Limited,Dan Schwartz,Key - Active,120.00026,-9.995,880.875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Schwartz,202775,No,Textile Rubber & Chemical Company,Dan Schwartz,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Schwartz,166126,No,VECTRA CO,Dan Schwartz,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Schwartz,4057026,No,Watco Companies L.L.C.,Dan Schwartz,Key - Active,0,14.48429,672.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Schwartz,5686860,No,West Corporation,Dan Schwartz,Key - Active,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Schwartz,6816648,No,Delek US Holdings Inc,Jeffrey Lee,Key - Active,767.12936,97.73128,3316.875,0,0,1,1,1,1,0,1,5,1,1,4,3,3,3,3,2,1,2,4,2,1,4,34,0,0,0,0,0,1,0,0,0,1,Account has not been introduced to me as the new AE yet just getting started
+SO-Schwartz,160317,No,Eastman Chemical Company,Jeffrey Lee,Key - Active,2311.65881,0,2127.35,0,0,1,1,1,1,1,1,6,0,1,4,4,3,1,4,2,1,2,4,2,2,2,32,2,0,0,0,0,0,0,0,0,2,Account has been introduced to me as the new AE and will be onsite at account for first time next week
+SO-Schwartz,170217,No,Emerson Electric Co,Jeffrey Lee,Key - Active,0,0,270,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,2,2,2,0,10,0,0,0,0,0,0,0,0,0,0,Account is non-SAP shop has some small Ariba applications and will work to penetrate account
+SO-Schwartz,161681,No,International Paper Company,Jeffrey Lee,Key - Active,2860.71145,0.40341,5056.2498,0,0,1,1,0,1,1,1,5,1,1,2,2,2,3,4,4,3,4,4,2,4,1,37,1,1,0,2,0,1,2,0,1,8,Account has been my account for a couple years and need to establish a reset
+SO-Schwartz,172235,No,ServiceMaster Consumer Services,Jeffrey Lee,Key - Active,495.93596,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,New account for me and need to penetrate account Not an SAP customer
+SO-Scott,203925,No,Fossil,Daniel Saldana,Key - Active,1906.32309,0,2070.575,0,0,1,0,0,1,1,0,3,2,3,2,2,2,3,3,2,2,1,3,0,3,1,29,3,0,0,0,3,2,0,0,0,8,M-GTM VIP Program in process to eliminate Rimini Street.  Progress underway. Building Q4 pipeline with Docusign
+SO-Scott,205331,No,Hobby Lobby Stores Inc.,Daniel Saldana,Key - Active,783.57769,0,1139.6092,149.6124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Scott,9611509,No,Maxum Enterprises LLC,Daniel Saldana,Key - Active,500,0,3380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Scott,8440108,No,Rent-A-Center,Daniel Saldana,Key - Active,400.752,0,337.5,0,0,1,0,0,1,0,0,2,0,3,3,2,2,4,3,2,3,2,2,0,4,0,30,3,2,0,0,0,1,0,0,0,6,Working MAR play.  Purchase S4 and SFSF two years back.  Never implemented.  In process of buyout neg and MAR (Gigya and BtoB)
+SO-Scott,5667601,No,TGI Friday's Inc,Daniel Saldana,Key - Active,0,0,0,499.9999,0,1,0,0,1,1,0,3,0,0,0,1,0,0,0,0,3,1,0,0,4,0,9,3,0,0,3,0,0,0,2,0,8,Reference account for Hybris
+SO-Scott,178940,Yes,American Airlines Inc.,Ed Krupa,SCP - Regional,5409.24317,238.78088,3786.1125,0,0,2,1,1,1,1,1,7,2,3,3,2,2,2,3,3,2,3,4,3,4,3,39,2,1,0,2,0,3,2,0,0,10,-
+SO-Scott,164853,No,Kimberly-Clark Corporation,Ed Krupa,Key - Active,1140.33644,12.5216,1566.9117,2003.089,0,2,1,1,0,1,1,6,2,3,3,3,3,4,3,4,2,2,0,2,4,2,37,3,0,0,2,0,0,3,0,1,9,-
+SO-Scott,163205,Yes,Southwest Airlines Co.,Ed Krupa,Key - Active,882.944,-718,461.25,0,0,2,0,1,1,0,1,5,1,3,2,2,1,4,3,3,2,1,4,1,4,1,32,1,0,0,1,2,3,0,0,0,7,-
+SO-Scott,3040569,No,Wal-Mart Stores Inc.,Hal Scott,SCP - Global,4937.22153,54.02242,20513.3273,572.7647,0,2,1,1,0,1,1,6,1,3,3,3,2,3,4,3,3,2,3,3,3,2,38,2,0,0,1,0,0,0,0,2,5,-
+SO-Scott,162055,No,Celanese International Corporation,Joshua Lackovic,Key - Active,1499.31475,0,1812.1237,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Scott,4834321,No,Kronos Worldwide Inc,Joshua Lackovic,Key - Active,83.39995,0,0,41.4,0,1,1,0,1,0,1,4,0,2,1,4,0,4,3,1,3,1,1,0,4,1,25,2,2,1,2,0,0,0,0,1,8,Partner Managed Account with operations in Europe - little visibility to the business
+SO-Scott,15086386,Yes,NTT Data Group,Joshua Lackovic,Key - Active,3115.86715,0,5077.5087,0,0,2,1,0,1,0,1,5,2,3,1,4,1,2,3,4,1,2,4,4,4,1,36,3,2,2,3,3,3,3,1,3,23,-
+SO-Scott,4855159,No,Primesource Bldg Products Inc,Joshua Lackovic,Key - Active,763.26012,0,0,0,0,1,1,0,1,0,1,4,1,4,2,4,1,3,4,2,2,1,1,0,3,2,30,3,2,2,3,1,1,1,2,3,18,-
+SO-Scott,173066,Yes,Toyota Motor Sales USA Inc.,Joshua Lackovic,Key - Active,2045.304,223.72042,3752.5,2566.8,0,2,1,1,1,1,1,7,1,4,4,4,1,2,4,4,2,1,1,1,2,2,33,2,2,0,2,1,0,3,0,3,13,-
+SO-Scott,172070,Yes,AT&T,Matthew Guidi,SCP - Regional,7417.69709,0,10473.341,0,0,2,0,0,0,0,1,3,0,1,1,3,2,3,2,3,3,1,3,3,1,1,27,3,0,0,0,0,0,0,0,0,3,-
+SO-Scott,7321373,No,DPS Holdings Inc,Matthew Guidi,SCP - Regional,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Scott,15439473,No,Neovia Logistics Services LLC,Matthew Guidi,Key - Active,1160.57997,0,1666.425,48.5291,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-
+SO-Scott,161746,Yes,SABRE GLBL INC.,Matthew Guidi,Key - Active,1324.28252,0,4907.2824,139.1554,0,2,1,0,0,1,1,5,0,3,4,3,1,3,3,4,2,2,4,4,1,1,35,1,3,1,0,0,0,2,0,2,9,-
+SO-Scott,5681374,No,Vizient Inc.,Matthew Guidi,Key - Active,0,0,0,144,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,3,0,0,0,0,0,7,1,0,0,0,0,0,0,0,0,1,-
+SO-Scott,204608,No,Devon Energy Corporation,Paul Smith,Key - Active,274.15543,0,328.5,290.2146,0,1,1,0,1,1,0,4,2,3,2,4,1,3,3,4,0,2,4,4,4,2,38,3,0,0,0,0,2,3,0,0,8,-
+SO-Scott,190852,No,Loves Travel Stops & Country Stores,Paul Smith,Key - Active,1641.84816,458.00256,1282.5,0,0,1,1,1,1,1,1,6,2,3,2,4,2,3,3,1,1,4,4,0,2,2,33,3,3,1,0,1,3,0,1,0,12,Blockchain play around owner-operator factoring
+SO-Scott,162789,Yes,Tyson Foods Inc.,Paul Smith,SCP - Global,4010.99669,1139.01726,7055.7948,919.6241,0,2,1,0,0,1,1,5,2,3,4,4,3,3,4,3,2,2,3,0,4,2,39,0,2,2,3,0,1,2,0,0,10,Blockchain play involving food traceability int'l shipping… 4-5 use cases.  Invtied to join blockchain consortium
+SO-Urias,171358,No,Murphy Oil Corporation,Andrew Griffin,Key - Active,638.87421,38.53603,1895,225.238,0,1,1,0,1,1,1,5,1,3,1,3,3,2,2,4,0,3,4,1,1,3,31,3,0,0,0,0,0,0,0,0,3,-
+SO-Urias,16888008,No,Par Pacific Holdings Inc.,Andrew Griffin,Key - Active,231.34492,0,0,0,0,0,0,0,1,1,0,2,1,0,4,3,1,2,0,4,1,2,3,4,4,0,29,2,0,0,0,0,2,0,0,0,4,-
+SO-Urias,1250408,Yes,FMC Technologies Inc.,David Luce,Key - Active,2771.09403,1277.28561,964.9375,0,0,0,1,1,1,1,1,5,2,4,2,4,4,3,4,4,2,4,4,2,4,3,46,2,2,0,1,2,1,2,1,1,12,-
+SO-Urias,180400,No,Lyondell Chemical Company,David Luce,Key - Active,5029.73033,0,7634.3395,1529.9998,0,0,1,1,0,1,1,4,3,4,0,4,4,4,4,4,2,4,4,4,4,2,47,3,1,1,0,1,1,1,1,1,10,-
+SO-Urias,169201,No,Anadarko Petroleum Corporation,Doug Centanni,Key - Active,424.95279,57.4,877.3249,468.9965,0,0,1,1,1,1,0,4,2,2,0,2,1,1,2,2,0,2,3,2,3,2,24,2,1,0,1,1,2,1,0,1,9,-
+SO-Urias,165886,No,Apache Corporation,Doug Centanni,Key - Active,517.11352,509.52503,1297.5,-22.1635,0,0,1,1,1,1,0,4,2,2,3,3,2,2,2,4,0,3,3,2,3,3,34,3,2,1,1,1,2,3,0,3,16,-
+SO-Urias,162495,Yes,Halliburton Energy Services Inc.,Doug Centanni,Key - Active,1368.09267,0,1635,0,0,0,0,1,1,1,1,4,2,2,2,2,2,2,2,2,1,2,3,3,2,1,28,3,1,1,1,1,2,1,1,1,12,-
+SO-Urias,165469,Yes,Marathon Oil Company,Doug Centanni,Key - Active,600.33345,156.71685,2612.8172,504.8212,0,0,1,1,1,1,1,5,2,2,0,4,3,3,2,1,0,2,3,2,2,0,26,3,2,0,1,1,1,1,0,1,10,-
+SO-Urias,210800,No,Sunoco Inc.,Doug Centanni,Key - Active,0,7.08,1305.9716,172.5,0,0,1,0,1,1,0,3,1,4,1,3,1,2,3,1,1,3,2,2,4,1,29,3,2,0,0,0,1,1,3,2,12,-
+SO-Urias,164353,No,Baker Hughes Oilfield,John Zgurzynski,SCP - Global,5026.47632,0,5775,0,0,1,1,1,0,0,0,3,3,4,2,2,3,2,3,4,4,2,4,4,4,2,43,1,0,0,0,0,1,0,0,0,2,-
+SO-Urias,197479,No,BJ Services Company USA,John Zgurzynski,SCP - Global,0,0,0,0,0,1,1,1,0,0,0,3,3,4,2,2,3,2,3,4,4,2,4,4,4,2,43,0,0,0,0,0,0,0,0,0,0,-
+SO-Urias,12094965,Yes,GE Oil and Gas Operations LLC,John Zgurzynski,SCP - Global,501.25134,0,0,0,0,1,1,1,0,0,0,3,3,4,2,2,3,2,3,4,4,2,4,4,4,2,43,0,0,0,0,0,0,0,0,0,0,-
+SO-Urias,164370,No,BMC Software Inc.,Matthew Gype,Key - Active,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,4,0,1,1,1,0,4,4,0,17,1,0,0,0,0,1,0,0,0,2,-
+SO-Urias,162147,No,Noble Drilling Corporation,Matthew Gype,Key - Active,283.365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,4,4,0,0,0,16,1,0,0,0,0,0,0,0,0,1,-
+SO-Urias,167686,No,Sysco Corporation,Matthew Gype,Key - Active,760,0,0,0,0,1,0,0,1,0,0,2,1,0,1,1,0,3,3,0,0,1,0,2,3,1,16,2,1,1,0,0,0,0,0,0,4,-
+SO-Urias,167887,No,Vinmar International Ltd.,Matthew Gype,Key - Active,526.18812,0,0,0,0,1,1,0,0,0,0,2,0,0,1,1,0,0,0,0,4,1,0,0,0,0,7,0,0,0,0,0,0,0,0,3,3,-
+SO-Urias,161658,Yes,Equilon Enterprises LLC DBA Shell O,Robert Beck,Key - Active,939.25185,0,4210.617,452.1738,0,1,1,1,1,1,1,6,2,2,4,4,2,4,4,4,4,4,1,4,4,4,47,3,3,2,2,2,0,3,1,3,19,-
+SO-Urias,848979,No,Kraton Polymers LLC,Robert Beck,Key - Active,279.906,0,120,110.4,0,1,1,0,0,0,1,3,2,1,1,4,1,1,2,1,0,1,4,1,1,1,21,3,1,0,1,1,3,1,0,1,11,-
+SO-Urias,13322458,No,Nexeo Solutions Holdings LLC,Robert Beck,Key - Active,375.2767,0,893.8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,2,1,4,0,10,3,0,0,0,0,0,0,0,0,3,-
+SO-Urias,13084401,No,Orion Engineered Carbons,Robert Beck,Key - Active,200.00048,0,277,18.5652,0,1,0,0,0,0,0,1,0,0,0,4,2,0,1,0,0,0,0,0,0,0,7,3,0,0,0,0,3,0,0,1,7,-
+SO-Urias,13278819,No,C&J Energy Services Inc.,Sean Kunec,Key - Active,1712.11228,17.54255,349.9993,0,0,0,0,0,1,1,0,2,0,1,4,4,2,4,3,4,2,4,4,1,4,4,41,2,1,1,1,1,1,0,0,0,7,-
+SO-Urias,162002,No,Hess Corporation,Sean Kunec,Key - Active,0,0,390,0,0,1,1,0,0,0,1,3,0,1,2,1,0,3,3,4,0,3,4,4,4,2,31,1,0,0,0,0,0,0,0,0,1,-
+SO-Urias,3040346,No,NCI Building Systems Inc.,Sean Kunec,Key - Active,0,0,0,0,0,0,0,0,0,0,1,1,2,0,1,1,0,0,0,0,4,0,0,0,3,0,11,2,0,2,0,0,0,0,0,0,4,-

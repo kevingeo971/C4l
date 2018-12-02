@@ -1,0 +1,13 @@
+var oEntry = this.getView().byId("middle_name_of_the_name_id").getValue();
+        	
+alert(oEntry);
+			
+			
+//oModel.remove('/Second_Test(4)',null,null,null);
+			
+//oModel.submitChanges();
+			
+//oModel.create('/Second_Test',{ first_name_of_the_name:"4" , last_name_of_the_name:"4" , middle_name_of_the_name:"4" , Pipeline:4 , Number:4}, null, function(){});
+			
+//oModel.submitChanges();
+
